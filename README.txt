@@ -17,6 +17,10 @@ Clone the repository:
 Install the required Python packages:
 	pip install pandas folium
 
+DOWNLOAD DATASET HERE:
+	https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
+	Press Export on the top right and download the .csv
+
 Place your CSV file in the project directory and update the file path in the script:
 	data = 'path_to_your_file.csv'  # Replace with your CSV file path
 
